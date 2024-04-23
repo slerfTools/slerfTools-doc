@@ -1,5 +1,6 @@
 # SlerfTools Tool Operation Instruction Document
 A handy Solana toolbox
+> [>>>中文文档地址](./README_CN.md)
 
 **Solana** **Token** **Creation** **Market** **Creation** **Openbook** **Burning** **Add** **LP** **Add** **Liquidity** **Raydium**
 
