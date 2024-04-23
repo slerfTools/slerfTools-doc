@@ -1,4 +1,4 @@
-# Solana Token Creation Tutorial
+# Solana Token create token
 
 Creating tokens on Solana is quick, convenient, and cost-effective. It only requires 0.13 SOL.
 
