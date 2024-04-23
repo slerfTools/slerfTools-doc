@@ -15,11 +15,11 @@
 - Exiting Raydium: Withdrawing assets may also signify your decision to exit the Raydium platform or no longer participate in the activities it offers. This could be due to a decreased interest in the platform, changes in risk preferences, or other personal decisions.
 
 ### Next, let's demonstrate an example of removing a pool on the Solana blockchain.
-Click [here](https://slerf.tools/lp/remove)  to access the page for removing a pool, as shown in the following image.
+Click [here](https://slerf.tools/liquidity-remover/solana)  to access the page for removing a pool, as shown in the following image.
 
 ![Alt text](./img/remoteLP_1.jpg)
 
-Enter the Pool ID. If you don't have a Pool ID yet, you can click [here](https://slerf.tools/lp/openbook) to create an OpenBook ID first, and then click [here](https://slerf.tools/lp/add) to create liquidity (create a pool).
+Enter the Pool ID. If you don't have a Pool ID yet, you can click [here](https://slerf.tools/openbook-market/solana) to create an OpenBook ID first, and then click [here](https://slerf.tools/liquidity-creator/solana) to create liquidity (create a pool).
 
 After entering the Pool ID, click on "Query" and wait for the query to complete. The pool information will be displayed once the query is finished.
 ![Alt text](./img/remoteLP_2.jpg)

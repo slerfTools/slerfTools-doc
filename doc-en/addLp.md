@@ -17,15 +17,15 @@ The main purposes of adding liquidity are as follows:
 
 ### Let's take a look at the steps to add liquidity to the pool:
 
-- 1. [Create a liquidity page](https://slerf.tools/lp/add) as shown in the following image:
+- 1. [Create a liquidity page]((https://slerf.tools/liquidity-creator/solana) as shown in the following image:
 
 ![Alt text](./img/addLP_1.jpg)
 
-After filling in the token contract, quote token (usually defaulting to SOL), [openbookid](https://slerf.tools/lp/openbook), as well as the quantity of tokens to be added and the quantity of quote tokens, click on [the create button](https://slerf.tools/token/create) .
+After filling in the token contract, quote token (usually defaulting to SOL), [openbookid](https://slerf.tools/openbook-market/solana), as well as the quantity of tokens to be added and the quantity of quote tokens, click on [the create button](https://slerf.tools/token-creator/solana) .
 
-If you don't have tokens yet, you can click [here ](https://slerf.tools/token/create)to create tokens first:
+If you don't have tokens yet, you can click [here ](https://slerf.tools/token-creator/solana)to create tokens first:
 
-If you don't have an openbook ID, you can click[ here](https://slerf.tools/lp/openbook) to create one:
+If you don't have an openbook ID, you can click[ here](https://slerf.tools/openbook-market/solana) to create one:
 
 After waiting for the page to prompt for wallet connection, click on confirm to sign. The pool ID will be displayed.
 ![Alt text](./img/addLP_2.jpg)

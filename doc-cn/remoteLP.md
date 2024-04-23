@@ -10,12 +10,12 @@
 
 ### 接下来我们来演示在solana链上撤池子的示例
 
-[点此进入撤池子页面](https://slerf.tools/lp/remove) 如下图所示
+[点此进入撤池子页面](https://slerf.tools/liquidity-remover/solana) 如下图所示
 
 
 ![Alt text](./img/remoteLP_1.jpg)
 
-输入[池子id](https://slerf.tools/lp/add)，如果还没有[池子id](https://slerf.tools/lp/add) 可以[点击此处](https://slerf.tools/lp/openbook)先去创建openbookid  然后再[点击此处](https://slerf.tools/lp/add)去创建流动性(创建池子)
+输入[池子id](https://slerf.tools/liquidity-creator/solana)，如果还没有[池子id](https://slerf.tools/liquidity-creator/solana) 可以[点击此处](https://slerf.tools/openbook-market/solana)先去创建openbookid  然后再[点击此处](https://slerf.tools/liquidity-creator/solana)去创建流动性(创建池子)
 
 输入池子id后，点击查询，等待查询后显示池子信息。
 ![Alt text](./img/remoteLP_2.jpg)

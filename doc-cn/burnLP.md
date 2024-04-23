@@ -11,10 +11,10 @@
 
 ### 接下来我们来演示燃烧池子的示例
 
-[点此进入燃烧流动性页面](https://slerf.tools/lp/burn)如下图
+[点此进入燃烧流动性页面](https://slerf.tools/liquidity-burner/solana)如下图
 ![Alt text](./img/burnLP_1.jpg)
 
-输入池子id，如果没有池子可以[点击此处](https://slerf.tools/lp/add)创建池子：
+输入池子id，如果没有池子可以[点击此处](https://slerf.tools/liquidity-creator/solana)创建池子：
 
 点击查询出现池子的详细信息如下图：
 ![Alt text](./img/burnLP_2.jpg)

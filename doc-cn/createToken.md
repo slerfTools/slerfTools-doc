@@ -28,7 +28,7 @@ SLEFR创始人和开发团队联合推出了全网最低服务费的Solana工具
 ### 1. 链接Solana钱包
 SlerfTools 目前支持多种流行的Solana钱包，例如Solflare、Phantom、ok钱包等。本文以Phantom钱包为例进行说明。
 
-点击这里进入[工具](https://slerf.tools/token/create)，点击网页右上角语言选择中文如下图所示：
+点击这里进入[工具](https://slerf.tools/token-creator/solana)，点击网页右上角语言选择中文如下图所示：
 ![Alt text](./img/createtoken_1.jpg)
 
 点击右上角的【选择钱包】按钮，在弹出窗口中选择你使用的钱包，钱包里面需要有 0.15 SOL用作支付：

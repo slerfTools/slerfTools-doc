@@ -3,7 +3,7 @@
 >We are committed to providing you with a secure and reliable platform that ensures your privacy is fully protected without causing any harm to your wallet. Our mission is to be loyal to users and serve them. We aim to establish a long-term and trustworthy relationship with our users.
 
 ### How to Relinquish Token Permissions
-First, open the permissions tool [Relinquish Permissions Page](https://slerf.tools/token/revoke), and then enter the token contract address as shown in the image below:
+First, open the permissions tool [Relinquish Permissions Page](https://slerf.tools/revoke-authority/solana), and then enter the token contract address as shown in the image below:
 
 ![Alt text](./img/revokeToken_1.jpg)
 
@@ -11,7 +11,7 @@ To input the contract address of the token you just created, please enter it in 
 
 Token Address: DrEJxLgKoqGVPSo2YxZpC75t226cjmw5j5cf7pNqpBgS
 
-Replace **Your Token Address** with the address of the token you created. If you haven't created a token yet, you can click on [this link](https://slerf.tools/token/create) to create one.
+Replace **Your Token Address** with the address of the token you created. If you haven't created a token yet, you can click on [this link](https://slerf.tools/token-creator/solana) to create one.
 
 After clicking the query button, once the permission validation is completed, the following screen will appear.
 

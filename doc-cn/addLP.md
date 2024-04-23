@@ -10,14 +10,14 @@ Raydium 是 Solana 区块链上的一个去中心化交易平台。Raydium 的�
 
 ### 接下来看一下加池子的步骤
 
-1.[创建流动性页面](https://slerf.tools/lp/add)如下图： 
+1.[创建流动性页面](https://slerf.tools/liquidity-creator/solana)如下图： 
 ![Alt text](./img/addLP_1.jpg)
 
-填写代币合约、报价代币(就是交易代币，一般默认SOL)、[openbookid](https://slerf.tools/lp/openbook)、以及 [添加代币](https://slerf.tools/token/create) 的数量和报价代币的数量后。点击创建按钮。
+填写代币合约、报价代币(就是交易代币，一般默认SOL)、[openbookid](https://slerf.tools/openbook-market/solana)、以及 [添加代币](https://slerf.tools/token-creator/solana) 的数量和报价代币的数量后。点击创建按钮。
 
-如果还没有代币可以[点此](https://slerf.tools/token/create)先去创建代币：
+如果还没有代币可以[点此](https://slerf.tools/token-creator/solana)先去创建代币：
 
-没有openbookid可以[点此](https://slerf.tools/lp/openbook) 去创建 ：
+没有openbookid可以[点此](https://slerf.tools/openbook-market/solana) 去创建 ：
 
 等待页面唤起钱包点击确认签名后，会显示出池子 ID ：
 ![Alt text](./img/addLP_2.jpg)

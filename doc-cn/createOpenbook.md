@@ -7,8 +7,8 @@ OpenBook 是 Raydium 的子项目，它允许用户创建自定义的做市池�
 因此，在创建 Raydium 加池子时，需要提供 OpenBook Market ID，以便正确设置和连接到相应的 OpenBook 市场。
 
 ### 创建openBookId
-打开工具[网页](https://slerf.tools/lp/openbook) 
-填写需要创建的代币,如果还没有代币，可以点击此[链接](https://slerf.tools/token/create)先创建代币 。
+打开工具[网页](https://slerf.tools/openbook-market/solana) 
+填写需要创建的代币,如果还没有代币，可以点击此[链接](https://slerf.tools/token-creator/solana)先创建代币 。
 ![Alt text](./img/createOpenbook_1.jpg)
 依次填写**基础代币** **报价代币** **最小订单量**等参数，点击创建市场
 
@@ -18,7 +18,7 @@ OpenBook 是 Raydium 的子项目，它允许用户创建自定义的做市池�
 在[raydium官方网站](https://raydium.io/liquidity/create/)创建流动性页面输入Market ID可以查到信息表示创建成功
 ![Alt text](./img/createOpenbook_3.jpg)
 
-创建完openbookid之后，可以继续[添加流动性](https://slerf.tools/lp/add)
+创建完openbookid之后，可以继续[添加流动性](https://slerf.tools/liquidity-creator/solana)
 
 ### 配置参数建议
 最小订单量和变动单位可以根据代币供应量来配置，下面是建议值：

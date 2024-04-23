@@ -7,8 +7,8 @@ Raydium is a decentralized exchange platform on the Solana blockchain, and the O
 
 ### To create an OpenBook ID:
 
-Open the tool [webpage](https://slerf.tools/lp/openbook).
-Fill in the required information for the token you want to create. If you haven't created a token yet, you can click on [this link](https://slerf.tools/token/create) to create one.
+Open the tool [webpage](https://slerf.tools/openbook-market/solana).
+Fill in the required information for the token you want to create. If you haven't created a token yet, you can click on [this link](https://slerf.tools/token-creator/solana) to create one.
 ![Alt text](./img/createOpenbook_1.jpg)
 
 Please follow these steps:
@@ -21,7 +21,7 @@ Once the transaction is confirmed, you will see the market ID displayed at the b
 
 After entering the Market ID in the Create Liquidity page on the official [Raydium website](https://raydium.io/liquidity/create/), you will be able to retrieve information indicating that the creation was successful.
 
-After creating the OpenBook ID, you can proceed to [add liquidity](https://slerf.tools/lp/add).
+After creating the OpenBook ID, you can proceed to [add liquidity](https://slerf.tools/liquidity-creator/solana).
 
 ### Recommended Configuration Parameters:
 

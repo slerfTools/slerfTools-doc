@@ -15,10 +15,10 @@ In Raydium, burning pools refer to special pools used for token destruction or b
 - Market regulation: Burning pools can be used to regulate the supply and demand of tokens. Based on market conditions and the project's economic model, teams can decide when to start or stop burning pools to balance supply and demand and adjust the token's circulation.
 
 ### Next, let's demonstrate an example of burning a pool.
-Click [here](https://slerf.tools/lp/burn) to access the burning liquidity page, as shown in the following image.
+Click [here](https://slerf.tools/liquidity-burner/solana) to access the burning liquidity page, as shown in the following image.
 ![Alt text](./img/burnLP_1.jpg)
 
-Enter the Pool ID. If there is no existing pool, click [here](https://slerf.tools/lp/add) to create a pool:
+Enter the Pool ID. If there is no existing pool, click [here](https://slerf.tools/liquidity-creator/solana) to create a pool:
 
 Clicking on "Query" will display detailed information about the pool, as shown in the following image:
 ![Alt text](./img/burnLP_2.jpg)

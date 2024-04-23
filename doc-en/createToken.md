@@ -28,7 +28,7 @@ SLEFR founder and development team have jointly launched [SlerfTools](https://sl
 
 ### 1.Connect your Solana wallet.
 SlerfTools currently supports various popular Solana wallets such as Solflare, Phantom, and OK Wallet. In this article, we will use Phantom wallet as an example.
-[Click here to access the tool](),  as shown in the image below:
+[Click here to access the tool](https://slerf.tools/token-creator/solana),  as shown in the image below:
 ![Alt text](./img/createtoken_1.jpg)
 Click on the "Select Wallet" button in the top right corner, and choose the wallet you are using from the pop-up window. Make sure the wallet has 0.15 SOL for payment:
 ![Alt text](./img/createtoken_2.jpg)
