@@ -38,12 +38,36 @@ SlerfTools的发展规划和路线图可分为几个阶段：
 
 文档名 | 描述 
 ------------ | ------------
+代币管理
 [solana链创建代币.md](./doc-cn/createToken.md)     | solana链创建代币
 [solana链放弃代币权限.md](./doc-cn/revokeToken.md)   | solana链放弃代币权限
+[solana链增发代币.md](./doc-cn/token-mint.md)     | solana链增发代币
+[solana链克隆代币.md](./doc-cn/token-clone.md)     | solana链克隆代币
+[solana链冻结账户.md](./doc-cn/freeze-account.md)     | solana链冻结账户
+[solana链燃烧代币.md](./doc-cn/token-burner.md)     | solana链燃烧代币
+[solana链创建靓号代币.md](./doc-cn/token-vanity-creator.md)     | solana链创建靓号代币
+流动性管理
 [solana链创建openbookId.md](./doc-cn/createOpenbook.md) | solana链创建openbookId
 [solana链创建流动性.md](./doc-cn/addLP.md)         | solana链创建流动性
 [solana链移除流动性.md](./doc-cn/remoteLP.md) | solana链移除流动性
 [solana链燃烧流动性.md](./doc-cn/burnLP.md) | solana链燃烧流动性
+[solana创建流动性并买入.md](./doc-cn/liquidity-create-and-buy-token.md) | solana链创建流动性并买入
+钱包管理
+[solana链批量生成钱包.md](./doc-cn/wallet-creator.md) | solana链批量生成钱包
 [solana链批量转账.md](./doc-cn/batch-transfer.md) | solana链批量转账
-
-
+[solana链批量归集.md](./doc-cn/multi-collector.md) | solana链批量归集
+[solana链靓号地址生成.md](./doc-cn/vanity-address-generator.md) | solana链靓号地址生成
+[solana链租金回收.md](./doc-cn/close-account.md) | solana链租金回收
+[solana链批量回收租金.md](./doc-cn/batch-incinerator.md) | solana链批量回收租金
+做市机器人
+[solana-swap.md](./doc-cn/swap.md) | solana swap
+[solana链批量交易.md](./doc-cn/multi-swap.md) | solana链批量交易
+税费代币(Token2022)
+[solana链创建代币token2022.md](./doc-cn/tax-token-creator.md) | solana链创建代币token2022
+pump专区
+[solana-pump开盘并买入.md](./doc-cn/pump-launch-and-buy-token.md) | solana-pump开盘并买入
+[solana-pump批量交易.md](./doc-cn/pump-volume-bot.md) | solana-pump批量交易
+[solana-pump刷粉.md](./doc-cn/pump-follow-bot.md) | solana-pump刷粉
+便捷工具
+[solana-代币快照.md](./doc-cn/snapshot-token-holders.md) | solana-代币快照
+[solana-代币快照.md](./doc-cn/wsol-converter.md) | solana-代币快照
