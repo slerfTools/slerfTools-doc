@@ -39,17 +39,17 @@ Solana链上最好用的空投工具，批量发送代币，一次交易高效�
 批量转账：https://slerf.tools/zh-cn/multi-sender/solana
 
 进入 SlerfTools 批量转账页面，右上角支持切换语言。
-![Alt text](./img/batch-transfer(one-to-more)_1.jpg)
+![Alt text](./img/batch-transfer_1.jpg)
 
 2.选择要进行批量转账的代币
-![Alt text](./img/batch-transfer(one-to-more)_2.jpg)
+![Alt text](./img/batch-transfer_2.jpg)
 
 3.填写多个收款地址（可手动输入或者上传文件）
 
 手动输入：在表格或其他地方复制地址后粘贴即可
 
 上传文件：支持 Excel / CSV / TXT / JSON 类型，可下载模板文件
-![Alt text](./img/batch-transfer(one-to-more)_3.jpg)
+![Alt text](./img/batch-transfer_3.jpg)
 
 4.设置每个地址的转账数量
 
@@ -58,8 +58,8 @@ Solana链上最好用的空投工具，批量发送代币，一次交易高效�
 专业版：可以给每个地址设置不同的转账数量，地址和数量之间用英文逗号隔开
 
 建议在 Excel 等编辑器中编辑好每个地址的转账数量后上传文件
-![Alt text](./img/batch-transfer(one-to-more)_4.jpg)
-![Alt text](./img/batch-transfer(one-to-more)_5.jpg)
+![Alt text](./img/batch-transfer_4.jpg)
+![Alt text](./img/batch-transfer_5.jpg)
 
 5.设置一笔交易中包含的转账地址数，建议：
 
@@ -70,18 +70,18 @@ Solana链上最好用的空投工具，批量发送代币，一次交易高效�
  未接收过转账Token的地址：9
 
 一笔交易中可以包含多个转账，仅需支付一次 GAS 费用，但是超出转账地址数将会失败。
-![Alt text](./img/batch-transfer(one-to-more)_6.jpg)
+![Alt text](./img/batch-transfer_6.jpg)
 
 6.核对批量转账相关数据
 
 核对将要进行的批量转账的【地址总数】、【代币发送总数】和收款地址及对应数量信息
-![Alt text](./img/batch-transfer(one-to-more)_7.jpg)
+![Alt text](./img/batch-transfer_7.jpg)
 
 7.发送上链等待批量转账完成
 
 如果有转账失败地址可以快捷进行复制
-![Alt text](./img/batch-transfer(one-to-more)_8.jpg)
-![Alt text](./img/batch-transfer(one-to-more)_9.jpg)
+![Alt text](./img/batch-transfer_8.jpg)
+![Alt text](./img/batch-transfer_9.jpg)
 
 
 Solana上每个Token或NFT都需在首次获取时支付一定的SOL作为账户租金。
