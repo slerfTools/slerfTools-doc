@@ -70,4 +70,4 @@ pump专区
 [solana-pump刷粉.md](./doc-cn/pump-follow-bot.md) | solana-pump刷粉
 便捷工具
 [solana-代币快照.md](./doc-cn/snapshot-token-holders.md) | solana-代币快照
-[solana-代币快照.md](./doc-cn/wsol-converter.md) | solana-代币快照
+[solana-WSOL兑换.md](./doc-cn/wsol-converter.md) | solana-WSOL兑换
